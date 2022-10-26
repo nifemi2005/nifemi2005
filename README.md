@@ -1,9 +1,27 @@
 ### Hi there I am Temenu Oluwanifemi Iyanuoluwa 👋
+
+## 🚀 About Me
+I'm a frontend developer from Nigeria.
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://homepage.oluwanifemiteme.repl.co/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/niffyby1234)
+
+
 ## Acknowledgements
 
  - [Zuri Team](https://w2.zuriboard.com/)
  - [Side Hustle](https://lms.terrahq.co/)
  - [Tecxha IT Training](https://tecxha-creative-solution.business.site/)
+
+## Documentation
+
+[W3schools](https://www.w3schools.com/)
+
+[MDN](https://developer.mozilla.org/en-US/)
  
  ## Feedback
 
