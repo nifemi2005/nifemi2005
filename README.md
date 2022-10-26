@@ -17,6 +17,14 @@ Javascript, HTML, CSS...
  - [Side Hustle](https://lms.terrahq.co/)
  - [Tecxha IT Training](https://tecxha-creative-solution.business.site/)
 
+- 🔭 I’m currently undergoing a training at Zuri
+- 🧠 I'm currently learning ReactJS
+- 👯 I’m looking to collaborate on creating a React app
+- 🤔 I’m looking for help with Javascript
+- 💬 Ask me about CSS
+- 📫 How to reach me: temenuoluwanifemi2005@gmail.com
+- ⚡ Fun fact: anything gaming am interested
+
 ## Documentation
 
 [W3schools](https://www.w3schools.com/)
@@ -27,17 +35,6 @@ Javascript, HTML, CSS...
 
 If you have any feedback, please reach out to us at temenuoluwanifemi2005@gmail.com
 
-<!--
-**nifemi2005/nifemi2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
