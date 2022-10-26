@@ -17,6 +17,8 @@ Javascript, HTML, CSS...
  - [Side Hustle](https://lms.terrahq.co/)
  - [Tecxha IT Training](https://tecxha-creative-solution.business.site/)
 
+## Other Common Github Profile Sections
+
 - 🔭 I’m currently undergoing a training at Zuri
 - 🧠 I'm currently learning ReactJS
 - 👯 I’m looking to collaborate on creating a React app
