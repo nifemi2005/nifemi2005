@@ -2,8 +2,13 @@
 ## Acknowledgements
 
  - [Zuri Team](https://w2.zuriboard.com/)
-  - [Side Hustle](https://lms.terrahq.co/)
-  - [Tecxha IT Training](https://tecxha-creative-solution.business.site/)
+ - [Side Hustle](https://lms.terrahq.co/)
+ - [Tecxha IT Training](https://tecxha-creative-solution.business.site/)
+ 
+ ## Feedback
+
+If you have any feedback, please reach out to us at temenuoluwanifemi2005@gmail.com
+
 <!--
 **nifemi2005/nifemi2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
