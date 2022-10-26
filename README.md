@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there I am Temenu Oluwanifemi Iyanuoluwa 👋
+## Acknowledgements
 
+ - [Zuri Team](https://w2.zuriboard.com/)
+  - [Side Hustle](https://lms.terrahq.co/)
+  - [Tecxha IT Training](https://tecxha-creative-solution.business.site/)
 <!--
 **nifemi2005/nifemi2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
