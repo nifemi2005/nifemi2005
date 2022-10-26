@@ -1,4 +1,4 @@
-### Hi there I am Temenu Oluwanifemi Iyanuoluwa 👋
+### Hi, I am Temenu Oluwanifemi Iyanuoluwa 👋
 
 ## 🚀 About Me
 I'm a frontend developer from Nigeria.
