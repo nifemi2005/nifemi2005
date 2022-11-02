@@ -4,7 +4,7 @@
 I'm a frontend developer from Nigeria.
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, ReactJS, HTML, CSS...
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://homepage.oluwanifemiteme.repl.co/)
