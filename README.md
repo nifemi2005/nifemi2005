@@ -19,7 +19,7 @@ Javascript, ReactJS, HTML, CSS...
 
 ## Other Common Github Profile Sections
 
-- 🔭 I’m currently undergoing a training at Zuri
+- 🔭 I’m currently taking a coursera course
 - 🧠 I'm currently learning ReactJS
 - 👯 I’m looking to collaborate on creating a React app
 - 🤔 I’m looking for help with Javascript
