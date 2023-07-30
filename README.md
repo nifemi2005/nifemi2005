@@ -7,7 +7,7 @@ I'm a frontend developer from Nigeria.
 Javascript, ReactJS, HTML, CSS...
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://homepage.oluwanifemiteme.repl.co/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nifemi-portfolio.netlify.app)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/niffyby1234)
 
 
