@@ -16,23 +16,6 @@ Frontend developer from Nigeria who loves building fast, beautiful web experienc
 
 ---
 
-## 🚀 What I'm working on
-
-- 🌍 Building the official **TEDxOsogbo** website
-- 💼 Revamping my personal portfolio
-- 📚 Deepening my React & TypeScript skills
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nifemi2005&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nifemi2005&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🔗 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
@@ -43,10 +26,4 @@ Frontend developer from Nigeria who loves building fast, beautiful web experienc
 
 ## ⚡ Fun fact
 
-I enjoy gaming and I'm always up for collaborating on interesting React projects!
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nifemi2005&label=Profile%20views&color=1B6FE8&style=flat" alt="nifemi2005" />
-</p>
+I enjoy gaming and I'm always up for collaborating on interesting projects!
