@@ -19,7 +19,7 @@ Frontend developer from Nigeria who loves building fast, beautiful web experienc
 ## 🔗 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white)](https://nifemi-portfolio-v2.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oluwanifemi-temenu-031a92321/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oluwanifemi-temenu/)
 
 ---
 
